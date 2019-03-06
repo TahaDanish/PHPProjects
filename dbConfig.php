@@ -10,5 +10,8 @@ if ($con->connect_error) {
 	echo "connection_error";
 }
 
+else{
+echo"ta ta by by";
 
+}
 ?>
